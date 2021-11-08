@@ -8,21 +8,30 @@ namespace RomanNumericalAddition
     {
         static void Main(string[] args)
         {
-            var a = Console.ReadLine();
+            Console.WriteLine("Enter roman numericals with spaces to add eg : X X L");
+            var input = Console.ReadLine();
             List<int> lst = new List<int>();
-            foreach(string i in a.Split(' '))
+            try
             {
-                var b = DataGen.RomanNumerals.RomanNumeralsExtensions.ParseRomans(i.ToUpper());
-                lst.Add(b);
+                if(input.Length < 0) { throw new Exception("Input Cannot be null"); };
+                foreach (string i in input.Split(' '))
+                {
+                    var romanToInt = DataGen.RomanNumerals.RomanNumeralsExtensions.ParseRomans(i.ToUpper());
+                    lst.Add(romanToInt);
+                }
+                var total = lst.Sum();
+
+                var output = DataGen.RomanNumerals.RomanNumeralsExtensions.ToRomans(total);
+
+                Console.WriteLine($"Total of {input} = {output}");
+
             }
-            var k = lst.Sum();
+            catch (Exception)
+            {
 
-            var output = DataGen.RomanNumerals.RomanNumeralsExtensions.ToRomans(k);
-
-            Console.WriteLine($"Total of {a} = {output}")
-
-           
-            Console.WriteLine("Hello World!");
+                throw;
+            }
+            
         }
     }
 }
