@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumericalAddition", "RomanNumericalAddition\RomanNumericalAddition.csproj", "{FB804AA1-9DE3-4A7A-95EB-83BE82B5F6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB804AA1-9DE3-4A7A-95EB-83BE82B5F6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB804AA1-9DE3-4A7A-95EB-83BE82B5F6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB804AA1-9DE3-4A7A-95EB-83BE82B5F6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB804AA1-9DE3-4A7A-95EB-83BE82B5F6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66645056-0554-46AD-83A0-31DDD084F940}
+	EndGlobalSection
+EndGlobal
