@@ -1,0 +1,16 @@
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.exe
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.AssemblyInfoInputs.cache
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.AssemblyInfo.cs
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.csproj.CopyComplete
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.deps.json
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.runtimeconfig.json
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.runtimeconfig.dev.json
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.dll
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\RomanNumericalAddition.pdb
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\DataGen.Extensions.dll
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\bin\Debug\netcoreapp3.1\DataGen.RomanNumerals.dll
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.csproj.CoreCompileInputs.cache
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.dll
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.pdb
+C:\Users\syedv\source\repos\RomanNumericalAddition\RomanNumericalAddition\obj\Debug\netcoreapp3.1\RomanNumericalAddition.genruntimeconfig.cache
